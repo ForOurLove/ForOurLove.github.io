@@ -21,7 +21,7 @@
 }
 
 	var together = new Date();
-	together.setFullYear(2017, 2, 6);
+	together.setFullYear(2017, 1, 6);
 	together.setHours(17);
 	together.setMinutes(20);
 	together.setSeconds(0);
